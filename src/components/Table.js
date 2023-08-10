@@ -3,7 +3,7 @@ const Table = ({ sat }) => {
       <table>
        <thead>
         <tr>
-          <th>Header TBD</th>
+          <th>TBD</th>
         </tr>
         </thead>
         <tbody>
